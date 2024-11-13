@@ -82,7 +82,7 @@
           </svg></a>
         </li>
         <li class="nav-item d-block d-lg-none ml-3">
-          <a href="images/NEO brochure.pdf" target="_blank" class="nav-link"
+          <a href="images/NEO Brochure 25.pdf" target="_blank" class="nav-link"
             >Brochure<i
               class="fas fa-arrow-alt-circle-right ml-3 mt-0 d-lg-none"
               style="float: right"
