@@ -196,7 +196,7 @@
         <div class="col-md-4"style="margin-left:10%;margin-top:5%"data-aos="fade-right"data-aos-duration="2000">
           <div class="heading text-center">❝ EntreLearners ❞</div>
           <div class="para text-center"style="margin:3% 0">
-              Join this community filled with Entrepreneurship enthusiasts to get a deeper knowledge, one on one discussion and <span style="color:yellow;">THINK, IDEATE AND CREATE</span>  your ideas with other members of this engaging community.<br>Exclusively for 7th-12th standard students
+              Join this community filled with Entrepreneurship enthusiasts to get a deeper knowledge, one on one discussion and <span style="color:yellow;">THINK, IDEATE AND CREATE</span>  your ideas with other members of this engaging community.<br>Exclusively for 6th-12th standard students
               <a href="https://t.me/EntreLearners" target="_blank"> 
               <button class="btn btn3">Join Now</button></a>
         </div>
