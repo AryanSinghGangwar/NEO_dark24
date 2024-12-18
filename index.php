@@ -704,47 +704,40 @@
       <div class="row align-items-center pb-3 ">
         <div class="col-md-4 text-center data" data-aos="fade-up" data-aos-duration="2000">
           <div class="profile">
-            <img src="images/pranay.jfif" alt="" class="user">
-            <blockquote >Pranay Gaidhane</blockquote>
-            <p>8308728488</p>
+            <img src="images/sanketwadile.jpeg" alt="" class="user">
+            <blockquote >Sanket Wandile</blockquote>
+            <p>8788590911</p>
           </div>
         </div>
         <div class="col-md-4 text-center data"data-aos="fade-up" data-aos-duration="2000">
           <div class="profile">
-            <img src="images/shravani.jfif" alt="" class="user" width="220px">
-            <blockquote>Shravani Bongade</blockquote>
-            <p>8275782707</p>
+            <img src="images/vaishnaveegarg.jpeg" alt="" class="user" width="220px">
+            <blockquote>Vaishnavee Garg</blockquote>
+            <p>9511339549</p>
           </div>
         </div>
         <div class="col-md-4 text-center data" data-aos="fade-up" data-aos-duration="2000">
           <div class="profile">
-            <img src="images/aman.jfif" alt="" class="user">
-            <blockquote>Aman Nahar</blockquote>
-            <p>9589817857</p>
+            <img src="images/ashutoshkela.jpeg" alt="" class="user">
+            <blockquote>Ashutosh Kela</blockquote>
+            <p>6383250856</p>
           </div>
         </div>
         
           <div class="col-md-4 text-center data" data-aos="fade-up" data-aos-duration="2000">
             <div class="profile">
-              <img src="images/sahitya.jfif" alt="" class="user">
-              <blockquote>Sahitya Saripaka</blockquote>
-              <p>9573324438</p>
+              <img src="images/haiderkapasi.jpeg" alt="" class="user">
+              <blockquote>Haider /kapasi</blockquote>
+              <p>70968 75253</p>
             </div>
           </div>
           <div class="col-md-4 text-center data"data-aos="fade-up" data-aos-duration="2000">
             <div class="profile">
-              <img src="images/ashlesha.jfif" alt="" class="user" width="220px">
-              <blockquote>Ashlesha Deshpande</blockquote>
-              <p>9322533859</p>
+              <img src="images/asimkhan.jpg" alt="" class="user" width="220px">
+              <blockquote>Asim Khan</blockquote>
+              <p>77740 80366</p>
             </div>
           </div>
-          <div class="col-md-4 text-center data" data-aos="fade-up" data-aos-duration="2000">
-            <div class="profile">
-              <img src="images/khushi.jfif" alt="" class="user">
-              <blockquote>Khushi Tank</blockquote>
-              <p>8275844551</p>
-            </div>
-      </div>
     </section>
     <!-- ==============================CONTACT ENDS============================= -->
 
