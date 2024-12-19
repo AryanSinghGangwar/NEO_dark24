@@ -222,7 +222,7 @@
         <li class="nav-item ml-3 d-none d-lg-block">
           <a
             class="btn btn-dark bg btn2 btn"
-            href="images/NEO brochure.pdf"
+            href="images/NEO Brochure 25.pdf"
             target="_blank"
             role="button"
             >BROCHURE<svg

@@ -109,7 +109,7 @@
     <<!-- ==============================HOME STARTS============================= -->
     <section class="container-fluid d-none d-lg-block" id="home">
       <div class="row">
-        <div class="col-lg-5 img-fluid img-responsive showcase-left"><img class=" ml-4" src="images/NEO_spons.png" alt="" height="220px">
+        <div class="col-lg-5 img-fluid img-responsive showcase-left"><img  src="images/neo25_logo.jpeg" alt="" height="220px">
           <div class="heading3 text-center mt-1 mb-4">Awakening the <span style="color: #ff8606;">Entrepreneur</span> within you <br></div>
           <div class="para" style="opacity: 0.7;font-size:1.3vw;">National Entrepreneurship Olympiad is a nationwide examination for the students of class 6th to 12th grade to nurture and test their entrepreneurial skills. This olympiad includes sections like Basic Entrepreneurial Concepts, Value Proposition, Finances, Public Speaking, Logical Analytics, English Proficiency.
           </div>
@@ -150,7 +150,7 @@
         <img src="images/home_bg.svg" data-aos="fade-right" data-aos-duration="1000" alt="" style="margin-bottom: -60px;" >
       </div>
       <div class="text-center">
-        <img src="images/NEO_spons.png" data-aos="fade-left" data-aos-duration="1000" alt=""  height="150px" >
+        <img src="images/neo25_logo.jpeg" data-aos="fade-left" data-aos-duration="1000" alt=""  height="150px" >
       </div>
       <div class="text-white text-center pt-1" >Awakening the <span style="color: #ff8606;">Entrepreneur</span> within you</div>
       <div class="text-center text-white" style="opacity: 0.7;font-size: 3.7vw;">National Entrepreneurship Olympiad is a nationwide examination for the students of class 6th to 12th grade to nurture and test their entrepreneurial skills. This olympiad includes sections like Basic Entrepreneurial Concepts, Value Proposition, Finances, Public Speaking, Logical Analytics, English Proficiency.
@@ -788,7 +788,7 @@
       <div class="col-md-4 text-white text-center foot1 mt-md-3">
         <p>For Association Opportunities and Queries Contact: 
           <!-- <br><a class="foot" href="mailto:neo@ecellvnit.org">neo@ecellvnit.org</a> -->
-          <br><a class="foot" href="mailto:neo.pr.ecellvnit@gmail.com">neo.pr.ecellvnit@gmail.com</a></p>
+          <br><a class="foot" href="mailto:neo.pr.ecellvnit@gmail.com">ecell.neo2025@gmail.com</a></p>
       </div>
       <div class="col-md-3 text-white text-center pb-2 foot1">All rights reserved <br> &copy;<a class="foot" href="https://www.ecellvnit.org/" target="_blank">E-Cell Vnit</a></div>
     </div>
