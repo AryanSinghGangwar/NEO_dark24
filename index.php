@@ -727,7 +727,7 @@
           <div class="col-md-4 text-center data" data-aos="fade-up" data-aos-duration="2000">
             <div class="profile">
               <img src="images/haiderkapasi.jpeg" alt="" class="user">
-              <blockquote>Haider /kapasi</blockquote>
+              <blockquote>Haider Kapasi</blockquote>
               <p>70968 75253</p>
             </div>
           </div>
