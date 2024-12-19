@@ -69,6 +69,12 @@
       width: 250px;
     }
 
+    .card .epoch{
+      padding: 10px 10px;
+      height: 250px;
+      width: 30vw;
+    }
+
     .row {
       display: flex;
       justify-content: center;
@@ -196,7 +202,7 @@
         <li class="nav-item ml-5 d-none d-lg-block">
           <a
             class="btn btn-dark bg btn1 btn"
-            href="register.php"
+            href="https://neoregistration.ecellvnit.org/"
             target="_blank"
             role="button"
           >
@@ -253,7 +259,7 @@
     </nav>
 
     <div class="heading text-center py-5">OUR SPONSORS</div>
-    <div class="heading1 text-center pb-4">Title Sponsor</div>
+    <!-- <div class="heading1 text-center pb-4">Title Sponsor</div>
     <div class="row align-items-center">
       <div class="mx-auto">
         <div class="card">
@@ -262,9 +268,9 @@
           </a>
         </div>
       </div>
-    </div>
+    </div> -->
 
-    <div class="heading1 text-center pb-4">Knowledge Partner</div>
+    <!-- <div class="heading1 text-center pb-4">Knowledge Partner</div>
     <div class="row align-items-center">
       <div class="mx-auto">
         <div class="card">
@@ -273,9 +279,9 @@
           </a>
         </div>
       </div>
-    </div>
+    </div> -->
 
-    <div class="heading1 text-center pt-5 pb-4">Power Sponsors</div>
+    <!-- <div class="heading1 text-center pt-5 pb-4">Power Sponsors</div>
     <div class="row align-items-center">
       <div class="d-flex justify-content-around">
         <div class="card">
@@ -291,14 +297,14 @@
           </a>
         </div>
       </div>
-    </div>
+    </div> -->
 
-    <div class="heading1 text-center pt-5 pb-4">Outreach Partners & Student Connect Partner</div>
+    <div class="heading1 text-center pt-5 pb-4">Student Outreach Partners </div>
     <div class="row align-items-center">
       <div class="d-flex justify-content-around">
-        <div class="card">
-          <a href="https://www.indiantalent.org/" target="_blank">
-            <img src="images/ito.jpg" alt="image" />
+        <div class="card" style="width: 30vw" >
+          <a href="https://www.epocholympiad.co.in/epoch-home.html" target="_blank">
+            <img src="images/epoch_logo.jpeg" alt="image" class="epoch" />
           </a>
         </div>
       </div>
@@ -309,16 +315,16 @@
           </a>
         </div>
       </div>
-      <div class="d-flex justify-content-around">
+      <!-- <div class="d-flex justify-content-around">
         <div class="card">
           <a href="https://www.scholarshipsinindia.com/" target="_blank">
             <img src="images/scholar.jpeg" alt="img" />
           </a>
         </div>
-      </div>
+      </div> -->
     </div>
 
-    <div class="heading1 text-center pt-5 pb-4">Kids Outreach Partner</div>
+    <!-- <div class="heading1 text-center pt-5 pb-4">Kids Outreach Partner</div>
     <div class="row">
       <div class="mx-auto">
         <div class="card text-center">
@@ -327,7 +333,7 @@
           </a>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="heading1 text-center pt-5 pb-4">Interactive Learning Partner</div>
     <div class="row">
@@ -340,7 +346,7 @@
       </div>
     </div>
 
-    <div class="heading1 text-center pt-5 pb-4">Media & Outreach Partners</div>
+    <!-- <div class="heading1 text-center pt-5 pb-4">Media & Outreach Partners</div>
     <div class="row">
       <div class="d-flex justify-content-around">
         <div class="card">
@@ -391,7 +397,7 @@
           </a>
         </div>
       </div>
-    </div>
+    </div> -->
 
 <footer>
     <div class="row align-items-center" style="background-color: #171717;">
