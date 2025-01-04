@@ -315,13 +315,13 @@
           </a>
         </div>
       </div>
-      <!-- <div class="d-flex justify-content-around">
+      <div class="d-flex justify-content-around">
         <div class="card">
           <a href="https://www.scholarshipsinindia.com/" target="_blank">
-            <img src="images/scholar.jpeg" alt="img" />
+            <img src="images/scholarship_india.jpeg" alt="img" />
           </a>
         </div>
-      </div> -->
+      </div>
     </div>
 
     <!-- <div class="heading1 text-center pt-5 pb-4">Kids Outreach Partner</div>
@@ -346,32 +346,32 @@
       </div>
     </div>
 
-    <!-- <div class="heading1 text-center pt-5 pb-4">Media & Outreach Partners</div>
+    <div class="heading1 text-center pt-5 pb-4">NEO'24 Partners</div>
     <div class="row">
       <div class="d-flex justify-content-around">
         <div class="card">
-          <a href="https://timesofindia.indiatimes.com/defaultinterstitial.cms">
-            <img src="images/toi.jpg" alt="image" />
+          <a href="https://www.vedantu.com/">
+            <img src="images/vedantu.jpeg" alt="image" />
           </a>
         </div>
       </div>
       <div class="d-flex justify-content-around">
         <div class="card">
-          <a href="https://www.thestatesman.com/">
-            <img src="images/statesman.png" alt="img" />
+          <a href="https://brightchamps.com/">
+            <img src="images/bright_champ.jpeg" alt="img" />
           </a>
         </div>
       </div>
       <div class="d-flex justify-content-around">
         <div class="card">
-          <a href="https://www.loksatta.com/">
-            <img src="images/loksatta.png" alt="image" />
+          <a href="https://cleverharvey.com/">
+            <img src="images/clever_harvey.jpeg" alt="image" />
           </a>
         </div>
       </div>
     </div>
 
-    <div class="row">
+    <!-- <div class="row">
       <div class="d-flex justify-content-around">
         <div class="card">
           <a href="https://www.sakalmediagroup.com/">
@@ -386,18 +386,74 @@
           </a>
         </div>
       </div>
-    </div>
+    </div> -->
 
-    <div class="heading1 text-center pt-5 pb-4">Radio Partner</div>
-    <div class="row align-items-center">
-      <div class="mx-auto">
+    <div class="heading1 text-center pt-5 pb-4">NEO'23 Partners</div>
+    <div class="row">
+      <div class="d-flex justify-content-around">
         <div class="card">
-          <a href="https://myfmindia.com/" target="_blank">
-            <img src="images/myfm.png" alt="image" />
+          <a href="https://unacademy.com/">
+            <img src="images/unacademy.jpeg" alt="image" />
           </a>
         </div>
       </div>
-    </div> -->
+      <div class="d-flex justify-content-around">
+        <div class="card">
+          <a href="">
+            <img src="images/iof.png" alt="img" />
+          </a>
+        </div>
+      </div>
+      <div class="d-flex justify-content-around">
+        <div class="card">
+          <a href="https://twinkle.ehitavada.com/">
+            <img src="images/twinkle_star.jpeg" alt="image" />
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="d-flex justify-content-around">
+        <div class="card">
+          <a href="https://brightchamps.com/">
+            <img src="images/bright_champ.jpeg" alt="img" />
+          </a>
+        </div>
+      </div>
+      <div class="d-flex justify-content-around">
+        <div class="card">
+          <a href="https://www.unifiedcouncil.com/" target="_blank">
+            <img src="images/uc.jpg" alt="img" />
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="heading1 text-center pt-5 pb-4">NEO'22 Partners</div>
+    <div class="row">
+      <div class="d-flex justify-content-around">
+        <div class="card">
+          <a href="https://parents.akudo.in/">
+            <img src="images/akudo.jpeg" alt="image" />
+          </a>
+        </div>
+      </div>
+      <div class="d-flex justify-content-around">
+        <div class="card">
+          <a href="https://www.indiantalent.org/">
+            <img src="images/india_talent.jpeg" alt="img" />
+          </a>
+        </div>
+      </div>
+      <div class="d-flex justify-content-around">
+        <div class="card">
+          <a href="https://www.practically.com/web/index.php">
+            <img src="images/practally.jpeg" alt="image" />
+          </a>
+        </div>
+      </div>
+    </div>
 
 <footer>
     <div class="row align-items-center" style="background-color: #171717;">
