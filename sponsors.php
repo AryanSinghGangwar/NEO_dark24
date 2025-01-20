@@ -299,6 +299,19 @@
       </div>
     </div> -->
 
+
+    <div class="heading1 text-center pt-5 pb-4">Title Sponser </div>
+    <div class="row align-items-center">
+      <div class="d-flex justify-content-around">
+        <div class="card" style="width: 30vw" >
+          <a href="https://www.esaral.com/" target="_blank">
+            <img src="images/esaral_logo.jpg" alt="image" class="epoch" />
+          </a>
+        </div>
+      </div>
+    </div>
+
+    
     <div class="heading1 text-center pt-5 pb-4">Student Outreach Partners </div>
     <div class="row align-items-center">
       <div class="d-flex justify-content-around">
