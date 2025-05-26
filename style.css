@@ -382,6 +382,7 @@ body {
 }
 
 .congratulations-text {
+  size: 1.5rem;
   color: #ff8606;
   margin: 30px 0 10px;
   font-weight: bold;

@@ -300,8 +300,8 @@
         </div>
         
         <div class="text-center mb-5" data-aos="fade-up" data-aos-duration="1000">
-          <h4 class="congratulations-text">Congratulations to all our winners for their outstanding achievement!</h4>
-          <p class="winners-note">These exceptional participants have demonstrated remarkable entrepreneurial skills and innovative thinking throughout the competition.</p>
+          <div class="congratulations-text" color="white">Congratulations to all our winners for their outstanding achievement!</div>
+          <div class="winners-note">These exceptional participants have demonstrated remarkable entrepreneurial skills and innovative thinking throughout the competition.</div>
         </div>
       </div>
     </section>
