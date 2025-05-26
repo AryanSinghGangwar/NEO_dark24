@@ -62,6 +62,9 @@
             <a href="#struct_mob" class="nav-link">Timeline<i class="fas fa-arrow-alt-circle-right ml-3 mt-0" style="float: right;" ></i></a>
            </li> -->
           <li class="nav-item">
+            <a href="#winners" class="nav-link">Winners<i class="fas fa-arrow-alt-circle-right ml-3 mt-0  d-lg-none" style="float: right;" ></i></a>
+          </li>
+          <li class="nav-item">
             <a href="#faqs" class="nav-link">FAQs<i class="fas fa-arrow-alt-circle-right ml-3 mt-0  d-lg-none" style="float: right;" ></i></a>
           </li>
           <li class="nav-item">
@@ -220,6 +223,91 @@
         </li>
     </section>
     <!-- ==============================HOME MOBILE ENDS============================= -->
+     <!-- ==============================WINNERS SECTION STARTS============================= -->
+    <section id="winners" class="winners">
+      <div class="heading text-center my-5" data-aos="fade-up" data-aos-duration="2000">NEO WINNERS</div>
+      <div class="container">
+        <div class="row justify-content-center">
+          <!-- Winner card 1 -->
+          <div class="col-md-4 col-sm-6 mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+            <div class="winner-card text-center">
+              <div class="winner-trophy">
+                <i class="fas fa-trophy fa-3x" style="color: #cd7f32;"></i>
+              </div>
+              <h3 class="winner-name" style="color: #ff8606; font-weight: bold;">Samiksha Balpande</h3>
+              <!-- <div class="winner-position">1st Place</div> -->
+              <div class="winner-badge">
+                <i class="fas fa-medal" style="color: gold;"></i>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Winner card 2 -->
+          <div class="col-md-4 col-sm-6 mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+            <div class="winner-card text-center">
+              <div class="winner-trophy">
+                <i class="fas fa-trophy fa-3x" style="color: #cd7f32;"></i>
+              </div>
+              <h3 class="winner-name" style="color: #ff8606; font-weight: bold;">Ayushman Chaudhary</h3>
+              <!-- <div class="winner-position">2nd Place</div> -->
+              <div class="winner-badge">
+                <i class="fas fa-medal" style="color: gold;"></i>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Winner card 3 -->
+          <div class="col-md-4 col-sm-6 mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+            <div class="winner-card text-center">
+              <div class="winner-trophy">
+                <i class="fas fa-trophy fa-3x" style="color: #cd7f32;"></i>
+              </div>
+              <h3 class="winner-name" style="color: #ff8606; font-weight: bold;">Om Vatslaya</h3>
+              <!-- <div class="winner-position">3rd Place</div> -->
+              <div class="winner-badge">
+                <i class="fas fa-medal" style="color: gold;"></i>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Winner card 4 -->
+          <div class="col-md-4 col-sm-6 mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+            <div class="winner-card text-center">
+              <div class="winner-trophy">
+                <i class="fas fa-trophy fa-3x" style="color: #cd7f32;"></i>
+              </div>
+              <h3 class="winner-name" style="color: #ff8606; font-weight: bold;">Deepanshu Gupta</h3>
+              <!-- <div class="winner-position">Runner Up</div> -->
+              <div class="winner-badge">
+                <i class="fas fa-medal" style="color: gold;"></i>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Winner card 5 -->
+          <div class="col-md-4 col-sm-6 mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+            <div class="winner-card text-center">
+              <div class="winner-trophy">
+                <i class="fas fa-trophy fa-3x" style="color: #cd7f32;"></i>
+              </div>
+              <h3 class="winner-name" style="color: #ff8606; font-weight: bold;">Prajakta Kalamkar</h3>
+              <!-- <div class="winner-position">Runner Up</div> -->
+              <div class="winner-badge">
+                <i class="fas fa-medal" style="color: gold;"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="text-center mb-5" data-aos="fade-up" data-aos-duration="1000">
+          <h4 class="congratulations-text">Congratulations to all our winners for their outstanding achievement!</h4>
+          <p class="winners-note">These exceptional participants have demonstrated remarkable entrepreneurial skills and innovative thinking throughout the competition.</p>
+        </div>
+      </div>
+    </section>
+    <!-- ==============================WINNERS SECTION ENDS============================= -->
+
+
 
 
     <!-- ==============================COMMUNITY BLOCK STARTS============================= -->
@@ -319,117 +407,8 @@
     <div class="heading text-center my-5" data-aos="fade-up" data-aos-duration="2000">NEO 2022 AFTERMOVIE</div>
     <style>.video{position:relative;width:100%;height:0;padding-bottom:56.27198%;}.video iframe{position:absolute;top:0;width:100%;height:100%;}</style><div class="video mx-auto mb-5"><iframe width='560' height='329' src="https://www.youtube.com/embed/CKFwUfBk1Nk?&theme=dark&autoplay=1&autohide=2&rel=0"frameborder="0"></iframe></div>
 
-
     
-
-    <!-- ==============================TIMELINE STARTS============================= -->
-    <!-- <section id="struct" class="d-none d-md-block">
-      
-      <div class="sticky" style="color: #ff8606;font-weight: bolder;margin-left: -2.5vw;">NATIONAL ENTRPRENEURSHIP OLYMPIAD <br> <br> <span class="text-center" style="color: white;font-weight: bold;">COMPETITION TIMELINE</span></div>
-      <div class="pb-5 my-5">
-        <div class="bord"></div>
-      <div class="text-center"><img class="round" data-aos="fade-right" data-aos-duration="1000" src="images/r1.png" alt="" width="500px"></div>
-      <div class="text-right" style="margin-top:-247px;margin-right:20px;"><img class="round" data-aos="fade-left" src="images/date1.png" alt="" height="300px"></div>
-      
-      <div class="text-right"><img class="round" data-aos="fade-left" data-aos-duration="1000" src="images/r2.png" alt="" width="500px"></div>
-      <div class="text-left" style="margin-top:-272px;margin-left:430px;"><img class="round" data-aos="fade-right" src="images/date2.png" alt="" width="500px" height="350px"></div>
-      
-      <div class="text-center"><img class="round" data-aos="fade-right" data-aos-duration="1000" src="images/r3.png" alt="" width="500px"></div>
-      <div class="text-right" style="margin-top:-249px;margin-right:20px;"><img class="round" data-aos="fade-left" src="images/date3.png" alt="" height="330px"></div>
-          <div class="row">
-            <div class="col-md-6"></div>
-          <div class="text-left col-md-6 py-4"><img data-aos="fade-up" data-aos-duration="1000" src="images/timelineimg.png" alt="" width="400px"></div></div>
-        </div>
-      </div>
-  </div>
-  
-  </div>
-</div>
-    </section> -->
-    <!-- ==============================TIMELINE ENDS============================= -->
-
-    <!-- ==============================TIMELINE MOBILE STARTS============================= -->
-    <!-- <section class="d-md-none d-block" id="struct_mob" >
-      <div class="heading3 text-center sticky-md py-4 " style="color: #ff8606;font-weight: bolder;">NATIONAL ENTRPRENEURSHIP OLYMPIAD <br> <br> <span class="text-center" style="color: white;font-weight: bold;">COMPETITION TIMELINE</span></div>
-      <div class="bord1"></div>
-      <div class="row">
-      <div class="col-1"><img class="round" data-aos="fade-right" data-aos-duration="1000" src="images/r1.png" alt="" width="500px"></div>
-    <div class="col-11"></div></div>
-    <div class="text-right" style="margin-top:-137px;margin-right:-25px"><img class="round" data-aos="fade-left" src="images/date1.png" alt="" height="170px"></div>
-    <div class="row">
-      <div class="col-5"></div>
-      <div class=" col-2"><img class="round" data-aos="fade-left" data-aos-duration="1000" src="images/r2.png" alt="" width="500px"></div></div>
-      <div class="text-left" style="margin-top:-143px;margin-left:-18px"><img class="round" data-aos="fade-right" src="images/date2.png" alt=""height="200px"></div>
-      <div class="row">
-      <div class="text-center col-1"><img class="round" data-aos="fade-right" data-aos-duration="1000" src="images/r3.png" alt="" width="500px"></div></div>
-      <div class="text-right" style="margin-top:-130px;margin-right:-25px;"><img class="round" data-aos="fade-left" src="images/date3.png" alt="" height="200px"></div>
-          <div class="row">
-            <div class="col-md-6"></div>
-          <div class="text-md-left text-center col-md-6 py-4"><img data-aos="fade-up" data-aos-duration="1000" src="images/timelineimg.png" alt="" width="300px"></div></div>
-        </div>
-  </div>
-  </div>
-</div>
-    </section> -->
-<!-- ==============================TIMELINE MOBILE ENDS============================= -->
-
-
-    <!-- ==============================GUIDELINES STARTS============================= -->
-    <!-- <section class="guide container-fluid mt-5" id="guide">
-      <div class="heading text-center"style="padding-top:2%;margin-top:-2%;"data-aos="fade-up"data-aos-duration="2000">GUIDELINES</div>
-      <div class="container para text-left">
-        <div class=" text-center">
-          <div><i class="fas fa-angle-double-right px-3 py-3" style="color: #ff8606;"></i><span style="font-weight: 800;">Round 1 examination dates: </span>15th-18th January 2022</div>
-          <div><i class="fas fa-angle-double-right px-3 py-3" style="color: #ff8606;"></i>Examination will be conducted on <span style="font-weight: 800;"> Practically Mobile Application</span></div>
-            <div><i class="fas fa-angle-double-right px-3 py-3" style="color: #ff8606;"></i>Round 1 exam window will be <span style="font-weight: 800;"> open for all 3 days</span> and can be given once.</div>
-              <div><i class="fas fa-angle-double-right px-3 py-3" style="color: #ff8606;"></i><span style="font-weight: 800;">Make sure you register on Practically app with the same mobile number which was used for registering for NEO’22.</span></div>
-                <div><i class="fas fa-angle-double-right px-3 py-3" style="color: #ff8606;"></i>NEO Round 1 exam will be an MCQ type test (no negative marking)‼️</div>
-                  <div><i class="fas fa-angle-double-right px-3 py-3" style="color: #ff8606;"></i>Total
-                    <span style="font-weight: 800;"> 60 </span>questions</div>
-                    <div><i class="fas fa-angle-double-right px-3 py-3" style="color: #ff8606;"></i>Duration: <span style="font-weight: 800;"> 45 minutes.</span></div>
-            </div>
-      </div>
-    </section> -->
-<!-- ==============================GUIDELINES ENDS============================= -->
-
-<!-- ==============================PRACTICALLY SECTION STARTS============================= -->
-    <!-- <section class="practically container-fluid d-none d-md-block" id="practically" style="margin-bottom:70px;">
-      <div class=" text-center pt-3" style="font-size:1.7vw;" data-aos="fade-up" data-aos-duration="1000">Round1 and Round2 of NEO to be held only on the <span style="font-weight:bolder;">PRACTICALLY</span> app</div>
-      <div class="text-center pt-2 pb-3">
-      <a href="https://www.practically.com/web/index.php" target="_blank"><img data-aos="fade-up" data-aos-duration="1000" src="images/pract.png" alt="" width="20%"></a></div>
-      <div data-aos="fade-up" data-aos-duration="1000" class=" text-center pb-2" style="font-size:1.7vw;">Download the practically app now!! <br> Available both on play store(android) and app store(ios)</div>
-      <div class="row align-items-center pb-3">
-        <div class="col-3"></div>
-        <div class="col-2" data-aos="fade-up" data-aos-duration="1000" style="background-color:black;margin-left:60px;border-radius:50px;">
-          <a href="https://play.google.com/store/apps/details?id=com.thirdflix.practically" target="_blank"><img src="images/playstore.png" alt="" width="80%"></a>
-        </div>
-        <div class="col-2" data-aos="fade-up" data-aos-duration="1000" style="background-color:black;margin-left:60px;border-radius:50px;">
-          <a href="https://apps.apple.com/us/app/practically-learning-app/id1507585284?ls=1" target="_blank"><img src="images/appstore.png" alt="" width=80%"></a>
-        </div>
-      </div>
-    </section> -->
-    <!-- ==============================PRACTICALLY SECTION STARTS============================= -->
-
-<!-- ==============================PRACTICALLY MOBILE STARTS============================= -->
-    <!-- <section class="practically container-fluid d-md-none d-block my-5" id="practically" style="margin-bottom:70px;">
-      <div class=" text-center pt-3" style="font-size:2.8vw;" data-aos="fade-up" data-aos-duration="1000">Round1 and Round2 of NEO to be held only on the <span style="font-weight:bolder;">PRACTICALLY</span> app</div>
-      <div class="text-center pt-2 pb-3">
-      <a href="https://www.practically.com/web/index.php" target="_blank"><img data-aos="fade-up" data-aos-duration="1000" src="images/pract.png" alt="" width="35%"></a></div>
-      <div class=" text-center pb-2" style="font-size:2.8vw;" data-aos="fade-up" data-aos-duration="1000">Download the practically app now!! <br> Available on both play store(android) and app store(ios)</div>
-      <div class="row align-items-center pb-3">
-        <div class="col-3" data-aos="fade-up" data-aos-duration="1000" style="background-color:black;margin-left:60px;border-radius:50px;">
-          <a href="https://play.google.com/store/apps/details?id=com.thirdflix.practically" target="_blank"><img src="images/playstore.png" alt="" width="100%"></a>
-        </div>
-        <div class="col-3" data-aos="fade-up" data-aos-duration="1000" style="background-color:black;margin-left:60px;border-radius:50px;">
-          <a href="https://apps.apple.com/us/app/practically-learning-app/id1507585284?ls=1" target="_blank"><img src="images/appstore.png" alt="" width="100%"></a>
-        </div>
-      </div>
-    </section> -->
-<!-- ==============================PRACTICALLY MOBILE ENDS============================= -->
-
-
-
-  <!-- ==============================STATS STARTS============================= -->
+    <!-- ==============================STATS STARTS============================= -->
     <section id="stats" class="stat"data-aos="fade-up"
     data-aos-duration="2000">
       <div id="counter">
@@ -563,7 +542,7 @@
             <p>Class 8</p>
             <p style="color: #ff8606;font-size: 18px;">St.Raphael's H.S school, Indore</p>
           </div>
-          <p class="px-3"><b>“Mentors were very helpful. I learned many new things about entrepreneurship, marketing strategies and finance.”</b> </p>
+          <p class="px-3"><b>"Mentors were very helpful. I learned many new things about entrepreneurship, marketing strategies and finance."</b> </p>
         </div>
       </div>
 
@@ -579,7 +558,7 @@
             <p>Class 10</p>
             <p style="color: #ff8606;font-size: 18px;">Ashoka Universal School, Nashik</p>
           </div>
-          <p class="px-3"><b>“NEO was different from other Olympiads. I learned to think on my feet, analyze ideas and discuss it with a team.”</b> </p>
+          <p class="px-3"><b>"NEO was different from other Olympiads. I learned to think on my feet, analyze ideas and discuss it with a team."</b> </p>
         </div>
       </div>
 
@@ -594,7 +573,7 @@
             <p>Class 8</p>
             <p style="color: #ff8606;font-size: 18px;">National Center for Excellence, Bangalore</p>
           </div>
-          <p class="px-3"><b>“My best memories in NEO 2022 were Baby Shark Tank and the Boardroom Discussion. It was fun to interact with new students.”</b> </p>
+          <p class="px-3"><b>"My best memories in NEO 2022 were Baby Shark Tank and the Boardroom Discussion. It was fun to interact with new students."</b> </p>
         </div>
       </div>
 
@@ -608,7 +587,7 @@
             <p>Class 9</p>
             <p style="color: #ff8606;font-size: 18px;">South Point High School, Kolkata</p>
           </div>
-          <p class="px-3"><b>“NEO is much more than a olympiad. It taught me real life solution to problems that can help to change world for better.”</b> </p>
+          <p class="px-3"><b>"NEO is much more than a olympiad. It taught me real life solution to problems that can help to change world for better."</b> </p>
         </div>
       </div>
       
