@@ -57,16 +57,16 @@
           </li>
           <!-- <li class="nav-item d-none d-lg-block">
            <a href="#struct" class="nav-link">Timeline<i class="fas fa-arrow-alt-circle-right ml-3 mt-0  d-none"></i></a>
-          </li>
-          <li class="nav-item d-lg-none">
+          </li> -->
+          <!-- <li class="nav-item d-lg-none">
             <a href="#struct_mob" class="nav-link">Timeline<i class="fas fa-arrow-alt-circle-right ml-3 mt-0" style="float: right;" ></i></a>
            </li> -->
           <li class="nav-item">
             <a href="#winners" class="nav-link">Winners<i class="fas fa-arrow-alt-circle-right ml-3 mt-0  d-lg-none" style="float: right;" ></i></a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a href="#faqs" class="nav-link">FAQs<i class="fas fa-arrow-alt-circle-right ml-3 mt-0  d-lg-none" style="float: right;" ></i></a>
-          </li>
+          </li> -->
           <li class="nav-item">
             <a href="sponsors.php" class="nav-link">Sponsors<i class="fas fa-arrow-alt-circle-right ml-3 mt-0  d-lg-none" style="float: right;" ></i></a>
           </li>
@@ -74,38 +74,38 @@
             <a href="#contact" class="nav-link">Contact Us <i class="fas fa-arrow-alt-circle-right ml-3 mt-0 d-lg-none" style="float: right;" ></i></a>
           </li>
         </ul>
-        <!-- <li class="nav-item ml-5 d-none d-lg-block">
+        <li class="nav-item ml-5 d-none d-lg-block">
           <a class="btn btn-dark bg btn1 btn" href="certificate.php" target="_blank" role="button"> DOWNLOAD CERTIFICATE<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
           </svg></a>
-        </li> -->
-        <li class="nav-item ml-3 d-none d-lg-block">
+        </li>
+        <!-- <li class="nav-item ml-3 d-none d-lg-block">
           <a class="btn btn-dark bg  btn1 btn" href="images/NEO Brochure 25.pdf" target="_blank" role="button">BROCHURE<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
           </svg></a>
-        </li>
-        <li class="nav-item d-block d-lg-none ml-3">
+        </li> -->
+        <!-- <li class="nav-item d-block d-lg-none ml-3">
           <a href="images/NEO Brochure 25.pdf" target="_blank" class="nav-link"
             >Brochure<i
               class="fas fa-arrow-alt-circle-right ml-3 mt-0 d-lg-none"
               style="float: right"
             ></i
           ></a>
-        </li>
-        <!-- <li class="nav-item d-block d-lg-none ml-3">
+        </li> -->
+        <li class="nav-item d-block d-lg-none ml-3">
           <a href="certificate.php" target="_blank" class="nav-link"
             >Download Certificate<i
               class="fas fa-arrow-alt-circle-right ml-3 mt-0 d-lg-none"
               style="float: right"
             ></i
           ></a>
-        </li> -->
-        <li class="nav-item ml-3 d-none d-lg-block">
+        </li>
+        <!-- <li class="nav-item ml-3 d-none d-lg-block">
           <a class="btn btn-dark bg  btn2 btn" href="images/NEO 2025 STUDY MATERIAL 6-8 TH .pdf" target="_blank" role="button">STUDY MATERIAL 6-8<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
           </svg></a>
-        </li>
-        <li class="nav-item d-block d-lg-none ml-3">
+        </li> -->
+        <!-- <li class="nav-item d-block d-lg-none ml-3">
           <a href="images/NEO 2025 STUDY MATERIAL 6-8 TH .pdf" target="_blank" class="nav-link"
             >STUDY MATERIAL 6-8<i
               class="fas fa-arrow-alt-circle-right ml-3 mt-0 d-lg-none"
@@ -113,28 +113,28 @@
             ></i
           ></a>
         </li>
-            
-        <li class="nav-item ml-3 d-none d-lg-block">
+             -->
+        <!-- <li class="nav-item ml-3 d-none d-lg-block">
           <a class="btn btn-dark bg  btn1 btn" href="images/NATIONAL ENTREPRENEURSHIP OLYMPIAD 9-12 TH.pdf" target="_blank" role="button">STUDY MATERIAL 9-12<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
           </svg></a>
-        </li>
+        </li> -->
 
-        <li class="nav-item d-block d-lg-none ml-3">
+        <!-- <li class="nav-item d-block d-lg-none ml-3">
           <a href="images/NATIONAL ENTREPRENEURSHIP OLYMPIAD 9-12 TH.pdf" target="_blank" class="nav-link"
             >STUDY MATERIAL 9-12<i
               class="fas fa-arrow-alt-circle-right ml-3 mt-0 d-lg-none"
               style="float: right"
             ></i
           ></a>
-        </li>
+        </li> -->
 
 
-        <li class="nav-item ml-3 d-none d-lg-block">
+        <!-- <li class="nav-item ml-3 d-none d-lg-block">
           <a class="btn btn-dark bg  btn2 btn" href="https://drive.google.com/drive/folders/1unfxQddDmrYar3ST_1mVkufeGeJ7z-1m?usp=drive_link" target="_blank" role="button">PYQ's<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
           </svg></a>
-        </li>
+        </li> -->
 
             
 
@@ -161,10 +161,14 @@
           <a class="btn btn-dark bg showcase-right1 mt-3 btn2 btn" href="images/NEO Brochure 25.pdf" target="_blank" role="button"> BROCHURE<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
               <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
             </svg></a>
-          <a class="btn btn-dark bg btn btn1 mt-3 mr-4 showcase-left" href="https://neoregistration.ecellvnit.org/" target="_blank" role="button">REGISTER<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+            <a class="btn btn-dark bg btn btn1 mt-3 mr-4 showcase-left" href="certificate.php" target="_blank" role="button">DOWNLOAD CERTIFICATE<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
               <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
             </svg></a>
-            <!-- <marquee behavior="" direction=""><h4 style="color: #ff8606;font-weight: 800;" class="mt-2">Results for NEO 23 has been announced !!</h4></marquee> -->
+
+          <!-- <a class="btn btn-dark bg btn btn1 mt-3 mr-4 showcase-left" href="https://neoregistration.ecellvnit.org/" target="_blank" role="button">REGISTER<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+              <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+            </svg></a> -->
+            <marquee behavior="" direction=""><h4 style="color: #ff8606;font-weight: 800;" class="mt-2">Results for NEO 25 has been announced !!</h4></marquee>
             
             
           </div>
@@ -192,10 +196,13 @@
       <div class="text-center text-white" style="opacity: 0.7;font-size: 3.7vw;">National Entrepreneurship Olympiad is a nationwide examination for the students of class 6th to 12th grade to nurture and test their entrepreneurial skills. This olympiad includes sections like Basic Entrepreneurial Concepts, Value Proposition, Finances, Public Speaking, Logical Analytics, English Proficiency.
             </div>
      
-      <!-- <marquee behavior="" direction=""><h6 style="color: #ff8606;font-size: 4.5vw;font-weight: 800;" class="mt-2 text-center">Registrations for NEO 2023 have been started!!</h6></marquee>
-      <div class="text-white text-center" style="font-size: 4.3vw;">Join the community Here <i class="fas fa-angle-down"></i></div>
+     <!-- <marquee behavior="" direction=""><h6 style="color: #ff8606;font-size: 4.5vw;font-weight: 800;" class="mt-2 text-center">Registrations for NEO 2023 have been started!!</h6></marquee>   -->
+
+      <marquee behavior="" direction=""><h6 style="color: #ff8606;font-size: 4.5vw;font-weight: 800;" class="mt-2 text-center">Results for NEO 25 has been announced !!</h6></marquee>  
+
+      <!-- <div class="text-white text-center" style="font-size: 4.3vw;">Join the community Here <i class="fas fa-angle-down"></i></div>
       <div class="text-center"><a href="https://t.me/EntreLearners" target="_blank"> 
-        <button class="btn btn3 my-2" style="font-size: 5vw;">Join Now</button></a></div> -->
+        <button class="btn btn3 my-2" style="font-size: 5vw;">Join Now</button></a></div>  -->
 
         <li class="nav-item pt-3 text-center mb-3">
           <!-- <a class="btn btn-dark bg  btn2 btn" data-aos="fade-right" data-aos-duration="1000" href="register.php" target="_blank" role="button">REGISTER NOW<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
@@ -209,17 +216,17 @@
             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
           </svg></a>
 
-          <a class="btn btn-dark bg  btn2 btn" data-aos="fade-right" data-aos-duration="1000" href="https://neoregistration.ecellvnit.org/" target="_blank" role="button">Register
+          <!-- <a class="btn btn-dark bg  btn2 btn" data-aos="fade-right" data-aos-duration="1000" href="https://neoregistration.ecellvnit.org/" target="_blank" role="button">Register
             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
-          </svg></a>
+          </svg></a> -->
 
           <!-- <a class="btn btn-dark bg btn1 btn my-1" data-aos="fade-right" data-aos-duration="1000" href="https://chat.whatsapp.com/GhcVeppiWOMGjfC83Drul0" target="_blank" role="button">Whatsapp Link<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
           </svg></a> -->
           
-          <!-- <a class="btn btn-dark bg btn1 btn mr-1 my-1" data-aos="fade-left" data-aos-duration="1000" href="http://neo.ecellvnit.org/certificate.php" target="_blank" role="button">CERTIFICATE<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+          <a class="btn btn-dark bg btn1 btn mr-1 my-1" data-aos="fade-left" data-aos-duration="1000" href="http://neo.ecellvnit.org/certificate.php" target="_blank" role="button">CERTIFICATE<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
-          </svg></a> -->
+          </svg></a>
         </li>
     </section>
     <!-- ==============================HOME MOBILE ENDS============================= -->
