@@ -1,4 +1,3 @@
-
 <?php
 require('fpdf.php');
 ini_set('memory_limit', '1024M');
@@ -8,54 +7,91 @@ function sanitizeFileName($string) {
 }
 
 function generateCertificate($name) {
-    $templatePath = 'cert_template.jpg'; // Your uploaded certificate background
-    $fontPath = __DIR__ . '/Belleza.ttf'; // Font file
+    $templatePath = 'cert_template.jpg'; // Your certificate background image
+    $fontPath = __DIR__ . '/Belleza.ttf'; // Path to your TTF font file
 
-    // Load certificate template
+    if (!file_exists($templatePath)) {
+        die("Certificate template not found.");
+    }
+
+    if (!file_exists($fontPath)) {
+        die("Font file not found.");
+    }
+
+    // Load certificate image
     $image = imagecreatefromjpeg($templatePath);
+    if (!$image) {
+        die("Failed to load certificate template image.");
+    }
+
     $black = imagecolorallocate($image, 0, 0, 0);
-    $fontSize =380; // Adjust font size as needed
 
-    // Calculate name position
+    $fontSize = 380; // Adjust font size appropriately
+
+    // Calculate bounding box for text (not used here to center but you can use it)
     $bbox = imagettfbbox($fontSize, 0, $fontPath, $name);
-    $x = 8299;
-    $y = 5100; // Adjust Y-position as needed
 
-    // Add name to image
+    // Image width and height
+    $imgWidth = imagesx($image);
+    $imgHeight = imagesy($image);
+
+    // Calculate X to center text horizontally
+    $textWidth = $bbox[2] - $bbox[0];
+    $x = 8299;
+
+    // Y position - place it somewhere on image height
+    $y = 5100;
+
+    // Add name text on image
     imagettftext($image, $fontSize, 0, $x, $y, $black, $fontPath, $name);
 
-    // Save temp image
+    // Save temporary image
     $cleanName = sanitizeFileName($name);
     $tempJpg = "cert_$cleanName.jpg";
-    imagejpeg($image, $tempJpg);
+    imagejpeg($image, $tempJpg, 90);
     imagedestroy($image);
 
-    // Generate PDF
+    // Create PDF
     $pdf = new FPDF('L', 'mm', 'A4');
     $pdf->AddPage();
-    $pdf->Image($tempJpg, 0, 0, 297, 210);
+
+    // Get A4 dimensions in pixels (approximate), or scale image to fit
+    $pdf->Image($tempJpg, 0, 0, 297, 210); // A4 size in mm
+
     $pdfOutput = "NEO25_Certificate_$cleanName.pdf";
+
+    // Output PDF as download
     $pdf->Output('D', $pdfOutput);
 
-    unlink($tempJpg); // Clean up
+    // Delete temporary image
+    unlink($tempJpg);
 }
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['certificate_form'])) {
     $nameInput = trim($_POST['name']);
     $phoneInput = trim($_POST['contact']);
 
+    if (empty($nameInput) || empty($phoneInput)) {
+        echo "<h3 style='color:red; text-align:center;'>Please provide both name and phone number.</h3>";
+        exit;
+    }
+
     $found = false;
 
     if (($handle = fopen('data.csv', 'r')) !== false) {
         fgetcsv($handle); // skip header
-        while (($data = fgetcsv($handle)) !== false) {
-            if ($data[1] == $phoneInput) {
+        while (($data = fgetcsv($handle, 0, ",", '"')) !== false) {
+            // assuming $data[1] is phone and $data[0] is name
+            if (trim($data[1]) === $phoneInput) {
                 $found = true;
-                $name = $data[0]; // Get official name from CSV
+                $name = trim($data[0]); // Get official name from CSV
                 break;
             }
         }
         fclose($handle);
+    } else {
+        echo "<h3 style='color:red; text-align:center;'>Failed to open data file.</h3>";
+        exit;
     }
 
     if ($found) {
